@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/World_Peace_Issues_Monitor.iml" filepath="$PROJECT_DIR$/.idea/modules/World_Peace_Issues_Monitor.iml" group="World_Peace_Issues_Monitor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="World Peace Issues Monitor/app" />
+    </modules>
+  </component>
+</project>
